@@ -21,6 +21,7 @@ The goal of **The Medifier** was to provide a quick and seamless method for busy
 - **Rapid Prototyping & Iteration:** Utilized SolidWorks for precise parametric 3D modeling and executed multiple physical 3D printing iterations to refine the mouthguard and cap fit.
 
 ## Design Gallery
+
 {% include image-gallery.html images="medifier.png" height="400" %}
 
 ## Development Workflow
