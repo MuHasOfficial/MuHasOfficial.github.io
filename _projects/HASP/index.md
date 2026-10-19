@@ -22,7 +22,5 @@ Collaborated with the **HERA (High-Altitude Engineering for Research in Astrophy
 ## Project Gallery
 {% include image-gallery.html images="hasp1.png", "hasp3.png, hasp2.png, hasp4.png, hasp5.png" height="400" %}
 
-## Development Workflow
-1. **Structural Calculation:** Performed load calculations to evaluate bracket deflection, fastener stress limits, and structural integrity under 10G acceleration profiles.
-2. **CAD Prototyping:** Modeled complete mounting stacks and payload enclosures in SolidWorks to verify fit and clearance.
-3. **Flight Readiness Review:** Participated in technical reviews to ensure compliance with stringent balloon flight safety and mechanical standards.
+## Summary
+Co-authored research abstracts and designed tungsten structural mounting stacks to withstand 10G shock loads for high-altitude balloon instrumentation under the HERA (High-Altitude Engineering for Research in Astrophysics) collaboration alongside Drexel University and NASA PSGC. This project involved rigorous mechanical validation, finite element analysis, and material selection to ensure payload integrity under extreme atmospheric flight conditions. The resulting hardware successfully met all structural compliance targets, bridging theoretical aerospace concepts with hands-on hardware fabrication and testing.
