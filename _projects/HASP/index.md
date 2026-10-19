@@ -20,7 +20,7 @@ Collaborated with the **HERA (High-Altitude Engineering for Research in Astrophy
 - **Research Collaboration:** Co-authored technical abstracts and documentation detailing mechanical mounting stack specifications for high-altitude flight readiness.
 
 ## Project Gallery
-{% include image-gallery.html images="hasp1.png", "hasp3.png", "hasp2.png", "hasp4.png", "hasp5.png" height="400" %}
+{% include image-gallery.html images="hasp1.png", "hasp3.png, hasp2.png, hasp4.png, hasp5.png" height="400" %}
 
 ## Development Workflow
 1. **Structural Calculation:** Performed load calculations to evaluate bracket deflection, fastener stress limits, and structural integrity under 10G acceleration profiles.
