@@ -9,7 +9,6 @@ skills:
   - Technical Research & Collaboration
   - Mechanical Assembly
 
-main-image: /hasp.png
 ---
 
 ## Project Overview
