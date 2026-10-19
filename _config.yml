@@ -48,23 +48,27 @@ skills:
   - category: 3D Modeling & CAD
     tools:
     - SolidWorks
-    - Onshape
     - Assembly & Exploded Views
+    - Digital Modeling
     - Technical Drawings & GD&T
-  - category: Programming & Computation
+  - category: Mechanical
     tools:
-    - Python
-    - MATLAB & Simulink
-    - Excel Data Automation
-    - Git & Version Control
-  - category: Mechatronics & Hardware
+    - Structural Analysis
+    - Mechanical Assembly
+    - Soldering
+    - Hand & Power Tools
+  - category: Engineering
     tools:
-    - Raspberry Pi Pico
-    - Arduino / Breadboard Prototyping
-    - Multisim Circuit Design
-    - Sensors & OLED Displays
-    - L298N Motor Drivers
-  - category: Fabrication & Engineering
+    - High-G Structural Analysis
+    - High-Altitude Payload Design
+    - Modified Drone Design
+    - Hands-on Field Work
+  - category: Notable Positions (Current)
+    tools:
+    - NASA HASP Tungsten Design Team Leader
+    - Payload Recovery HASP Team Leader
+    - Drexel Rocket Team Engineer
+  - category: Fabrication
     tools:
     - 3D Printing (FDM)
     - Rapid Prototyping
