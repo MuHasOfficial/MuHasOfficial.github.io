@@ -9,7 +9,7 @@ skills:
   - Technical Team Collaboration
   - Fabrication & Prototyping
 
-main-image: /IMG_5329.jpg
+main-image: /fsae.png
 ---
 
 ## Project Overview
