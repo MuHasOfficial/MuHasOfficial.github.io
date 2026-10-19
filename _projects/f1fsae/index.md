@@ -8,8 +8,6 @@ skills:
   - Mechanical Assembly
   - Technical Team Collaboration
   - Fabrication & Prototyping
-
-main-image: /fsae1.png
 ---
 
 ## Project Overview
