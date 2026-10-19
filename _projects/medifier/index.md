@@ -12,7 +12,8 @@ skills:
 ---
 
 ## Project Overview
-The goal of **The Medifier** was to provide a quick and seamless method for busy parents to administer liquid medicine to children by integrating a medicine dispenser directly into a pacifier assembly.
+The goal of the **Medifier** was to provide a quick and seamless method for busy parents to provide medicine to children by integrating a medicine dispenser into a pacifier. The primary mechanism enabling this feature was a duckbill valve that opened when a suction force was applied to the pacifier. The Medifier featured a medicine reservoir that could hold 15 mL of liquid medicine, along with a sleek, lightweight design for easy use.
+
 
 ## Key Engineering Features
 - **Duckbill Valve Mechanism:** Designed a suction-activated valve that opens only when suction force is applied to the pacifier, preventing premature spills.
@@ -20,9 +21,7 @@ The goal of **The Medifier** was to provide a quick and seamless method for busy
 - **Rapid Prototyping & Iteration:** Utilized SolidWorks for precise parametric 3D modeling and executed multiple physical 3D printing iterations to refine the mouthguard and cap fit.
 
 ## Design Gallery
-{% include image-gallery.html images="medifier.png" height="400" %}
+{% include image-gallery.html images="Medifier2.png, Medifier3.png, medifier.png" height="400" %}
 
-## Development Workflow
-1. **Concept & Modeling:** Created initial component designs and assembly mates in SolidWorks.
-2. **Prototyping:** Printed test iterations to check fit tolerances, wall thicknesses, and structural durability.
-3. **Refinement:** Optimized component geometry for ease of cleaning and safe administration.
+## Context and Development
+- The Medifier Infant Medicine Delivery System required a strong combination of technical, creative, and interpersonal abilities. I demonstrated critical thinking through effective Idea Pitching (naming the "Medifier" and designing the crucial medicine reservoir) and rapid problem-solving under pressure to overcome obstacles and meet deadlines. Finally, the successful development and presentation of the device relied on essential interpersonal skills, including Teamwork within a four-person group and professional Presentation Skills to articulate the device's functional and economic value.
