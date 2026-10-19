@@ -1,4 +1,3 @@
-<img width="1452" height="597" alt="image" src="https://github.com/user-attachments/assets/9c781a2e-baca-4575-b8dd-7ee613d2d964" />---
 layout: post
 title: "Formula SAE (FSAE) Racecar Mechanical Systems"
 description: "Contributed to design, component evaluation, and chassis/powertrain integration for Drexel University's Formula SAE racing team."
