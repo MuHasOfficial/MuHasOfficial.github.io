@@ -947,9 +947,11 @@ footer p {
       
 }
 
-.post-content p, 
-.post-content li, 
-.post-content span, 
-.post-content description {
-  color: #f0f0f0 !important;
+/* Force all text inside project view paragraphs and lists to be bright white */
+.post-view .content p, 
+.post-view .content li, 
+.post-view .content span, 
+.post-view .content strong,
+.post-view .summary p {
+  color: var(--text-color, #f0f0f0) !important;
 }
