@@ -9,7 +9,7 @@ skills:
   - Mechanical Assembly
   - Product Design
 
-main-image: /medifier.png
+main-image: /medifier2
 ---
 
 ## Project Overview
