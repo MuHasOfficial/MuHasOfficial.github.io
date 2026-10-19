@@ -19,7 +19,8 @@ Participated in Drexel University's **Formula SAE** team engineering pipeline, c
 - **Cross-Functional Collaboration:** Coordinated with sub-teams spanning chassis, powertrain, and electronics to ensure clean integration and alignment across the vehicle.
 
 ## Project Gallery
-{% include image-gallery.html images="fsae.png" height="400" %}
+
+{% include image-gallery.html images="fsae1.png, fsae2.png, fsae3.png" height="400" %}
 
 ## Core Focus Areas
 1. **Packaging & Clearance:** Verified spatial clearances between chassis frame, suspension geometry, and powertrain assemblies.
