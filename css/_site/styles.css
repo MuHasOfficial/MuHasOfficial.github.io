@@ -1,11 +1,11 @@
 :root {
-    --text-color: #1a1c20;
-    --border-color: #ddd;
-    --light-border-color: darkgray;
-    --link-color: #4a76ee;
-    --highlight-color: #0c0cf2;
-    --background-color: white;
-    --light-background-color: #f3f5fb;
+  --text-color: #f0f0f0;
+  --border-color: #333333;
+  --light-border-color: #444444;
+  --link-color: #61afef;
+  --highlight-color: #98c379;
+  --background-color: #1e1e1e;
+  --light-background-color: #252526;
 }
 
 * {
