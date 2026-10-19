@@ -9,7 +9,6 @@ skills:
   - GD&T & Tolerancing
   - Rapid Prototyping
 
-main-image: /flashlight.png
 ---
 
 ## Project Overview
@@ -23,7 +22,5 @@ Designed a functional, multi-component flashlight assembly entirely from scratch
 ## Gallery
 {% include image-gallery.html images="flashlight.png" height="400" %}
 
-## Design & Verification
-1. **Component Modeling:** Individual parts modeled with precise dimensional constraints.
-2. **Assembly Mating:** Applied coaxial, distance, and face mates to simulate real-world mechanical movement.
-3. **Drafting:** Prepared clean technical drawings suitable for manufacturing and prototyping.
+## Summary
+Designed a multi-component flashlight assembly from scratch using SolidWorks. Modeled complex housing threads, battery compartments, lens retainers, and internal switch mechanisms. Generated a fully detailed exploded view and bill of materials (BOM) to demonstrate spatial assembly, component alignment, and mechanical fit tolerances. 
