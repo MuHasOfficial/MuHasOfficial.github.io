@@ -571,29 +571,29 @@ footer p {
 .post-view {
     margin: 25px auto;
     border: 1px solid rgba(0, 0, 0, 0.05);    
-    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 
-                  0 2px 4px -1px rgba(0, 0, 0, 0.06);
-    border-radius: 10px
-     
-  }
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),                
+                0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    border-radius: 10px;
+}
 
-.post-view .summary{
+.post-view .summary {
     padding: 25px 50px;  
 }
 
-.post-view .title-header  {
+.post-view .title-header {
     width: 100%;
     display: flex;
 }
 
-.post-view .title-header  h1 {
+.post-view .title-header h1 {
     line-height: normal;
     margin-bottom: 10px;
+    color: var(--text-color);
 }
 
 .post-view .summary img {
     width: 100%;
-    height: 100%;  /* Changed to 100% to fill the container */
+    height: 100%;  
     object-fit: cover;
     border-radius: 6px;
     aspect-ratio: 3/1;
@@ -604,10 +604,19 @@ footer p {
     margin-bottom: 10px;
 }
 
+.post-view .summary .project-description p,
+.post-view .summary .project-description span {
+    color: var(--text-color);
+}
+
 .post-view .summary .skills-card {
     display: flex;
     flex-direction: column;
     gap: 5px;
+}
+
+.post-view .summary .skills-card h2 {
+    color: var(--text-color);
 }
 
 .post-view .summary .skills-list {
@@ -615,7 +624,6 @@ footer p {
     flex-wrap: wrap;
     justify-content: start;
     gap: 5px;
-    
 }
   
 .post-view .summary .skill {
@@ -631,6 +639,13 @@ footer p {
     border-radius: 10px;
 }
  
+.post-view .content h1,
+.post-view .content h2,
+.post-view .content h3,
+.post-view .content h4 {
+    color: var(--text-color);
+}
+
 .post-view .content .image-gallery {
     display: flex;
     flex-wrap: wrap;
@@ -638,54 +653,59 @@ footer p {
     align-items: flex-start;
     align-content: flex-start;
     width: 100%;
-    gap: 10px
+    gap: 10px;
 }
 
 .post-view .content .image-gallery img {
-    max-height: var(--gallery-height); 
-    width: auto; 
+    max-height: var(--gallery-height);  
+    width: auto;  
     max-width: 100%;
     object-fit: contain;
     align-self: flex-start;
 }
   
-.post-view .content  a {
-    color: #3498db;
+.post-view .content a {
+    color: var(--link-color);
     text-decoration: none;
     transition: color 0.3s ease;
     margin-bottom: 1em;
-  }
+}
 
-.post-view .content  p {
+.post-view .content p, 
+.post-view .content li, 
+.post-view .content span,
+.post-view .content strong {
+    color: var(--text-color);
     margin-bottom: 1em;
-  }
+}
 
-.post-view .content  a:hover {
-    color: #2980b9;
-  }
+.post-view .content a:hover {
+    color: var(--text-color);
+}
   
 .post-view .content ul, ol {
     padding-left: 20px;
     margin: 1em 0;
-  }
+    color: var(--text-color);
+}
   
 .post-view .content blockquote {
-    border-left: 4px solid #3498db;
+    border-left: 4px solid var(--link-color);
     margin: 1em 0;
     padding: 10px 20px;
     background-color: var(--light-background-color);
     color: var(--text-color);
     font-size: calc(10px + 0.5vw);
-  }
+}
   
-.post-view .content   hr {
+.post-view .content hr {
     border: 0;
     height: 1px;
-    background: #ddd;     
+    background: var(--border-color);      
     margin: 20px 0;
-  }
+}
   
-  .post-view .content table {
+.post-view .content table {
     width: 100%;
     border-collapse: collapse;
     margin: 1em 0;
@@ -695,18 +715,18 @@ footer p {
 .post-view .content th {
     padding: 8px;
     text-align: left;
-    border-bottom: 1px solid #e9ecef;
-    background-color: #f8f9fa;
-    color: #495057;
-    font-size: calc(10px + 0.5vw); /* Matches h2 size */
+    border-bottom: 1px solid var(--border-color);
+    background-color: var(--light-background-color);
+    color: var(--text-color);
+    font-size: calc(10px + 0.5vw); 
 }
 
 .post-view .content td {
     padding: 8px;
     text-align: left;
-    border-bottom: 1px solid #e9ecef;
+    border-bottom: 1px solid var(--border-color);
     color: var(--text-color);
-    font-size: calc(10px + 0.5vw); /* Matches p size */
+    font-size: calc(10px + 0.5vw); 
 }
 
 .youtube-container {
