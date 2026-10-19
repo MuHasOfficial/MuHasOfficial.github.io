@@ -23,5 +23,5 @@ The goal of the **Medifier** was to provide a quick and seamless method for busy
 ## Design Gallery
 {% include image-gallery.html images="Medifier2.png, Medifier3.png, medifier.png" height="400" %}
 
-## Context and Development
+## Summary
 The Medifier Infant Medicine Delivery System required a strong combination of technical, creative, and interpersonal abilities. I demonstrated critical thinking through effective Idea Pitching (naming the "Medifier" and designing the crucial medicine reservoir) and rapid problem-solving under pressure to overcome obstacles and meet deadlines. Finally, the successful development and presentation of the device relied on essential interpersonal skills, including Teamwork within a four-person group and professional Presentation Skills to articulate the device's functional and economic value.
