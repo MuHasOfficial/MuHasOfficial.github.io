@@ -1,29 +1,29 @@
 ---
 layout: post
-title: "Parametric Workstation & Desk Assembly"
-description: "Designed a multi-piece modular desk and workstation assembly in SolidWorks, focusing on structural stability, surface mating, and parametric dimensioning."
+title: "Infant Medicine Delivery System ('The Medifier')"
+description: "Designed a pacifier-integrated liquid medicine dispenser using SolidWorks and rapid 3D printing prototyping, featuring a custom duckbill valve mechanism."
 skills: 
   - SolidWorks & CAD
-  - Parametric Modeling
-  - Assembly Mates & Clearances
-  - Structural Design
-  - Technical Documentation
+  - Rapid Prototyping
+  - 3D Printing (FDM)
+  - Mechanical Assembly
+  - Product Design
 
-main-image: /desk.png
+main-image: /medifier.png
 ---
 
 ## Project Overview
-Modeled a custom multi-piece workstation and desk assembly in SolidWorks for advanced CAD practice. The project focused on clean parametric dimensioning, sub-assembly structuring, and structural stability across all desk components.
+The goal of **The Medifier** was to provide a quick and seamless method for busy parents to administer liquid medicine to children by integrating a medicine dispenser directly into a pacifier assembly.
 
 ## Key Engineering Features
-- **Parametric Framework:** Designed adjustable legs, framing supports, and desktop surfaces linked by parametric master dimensions for rapid design iterations.
-- **Advanced Assembly Mates:** Utilized coaxial, planar, and distance mates to simulate real-world hardware fastening and structural alignment.
-- **Bill of Materials (BOM):** Generated component hierarchies and assembly trees to ensure clean part organization and manufacturing readiness.
+- **Duckbill Valve Mechanism:** Designed a suction-activated valve that opens only when suction force is applied to the pacifier, preventing premature spills.
+- **Integrated Fluid Reservoir:** Engineered a compact, lightweight 15 mL medicine reservoir combined with a sleek outer housing.
+- **Rapid Prototyping & Iteration:** Utilized SolidWorks for precise parametric 3D modeling and executed multiple physical 3D printing iterations to refine the mouthguard and cap fit.
 
 ## Design Gallery
-{% include image-gallery.html images="desk.png" height="400" %}
+{% include image-gallery.html images="medifier.png" height="400" %}
 
-## Design Workflow
-1. **Part Design:** Modeled individual wooden panels, framing brackets, and fasteners.
-2. **Sub-Assembly:** Grouped structural supports into modular sub-assemblies before final integration.
-3. **Verification:** Checked for interference and clearance issues across all movable or connecting joints.
+## Development Workflow
+1. **Concept & Modeling:** Created initial component designs and assembly mates in SolidWorks.
+2. **Prototyping:** Printed test iterations to check fit tolerances, wall thicknesses, and structural durability.
+3. **Refinement:** Optimized component geometry for ease of cleaning and safe administration.
