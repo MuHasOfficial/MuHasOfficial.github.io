@@ -9,7 +9,6 @@ skills:
   - Structural Design
   - Technical Documentation
 
-main-image: /desk.png
 ---
 
 ## Project Overview
