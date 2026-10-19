@@ -12,7 +12,7 @@ skills:
 ---
 
 ## Project Overview
-The goal of the **Medifier** was to provide a quick and seamless method for busy parents to provide medicine to children by integrating a medicine dispenser into a pacifier. The primary mechanism enabling this feature was a duckbill valve that opened when a suction force was applied to the pacifier. The Medifier featured a medicine reservoir that could hold 15 mL of liquid medicine, along with a sleek, lightweight design for easy use.
+The goal of the **Medifier** was to provide a quick and seamless method for busy parents to provide medicine to children by integrating a medicine dispenser into a pacifier. The primary mechanism enabling this feature was a duckbill valve that opened when a suction force was applied to the pacifier. The Medifier featured a medicine reservoir that could hold 15 mL of liquid medicine, along with a sleek, lightweight design for easy use.
 
 
 ## Key Engineering Features
