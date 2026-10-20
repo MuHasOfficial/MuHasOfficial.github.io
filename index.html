@@ -1,11 +1,20 @@
-<section class="about-section" id="about">
-    <h2>About Me</h2>
-    <div>
-        <p>I am a Mechanical Engineering student at Drexel University with a minor in mathematics, passionate about turning complex engineering concepts into functional, real-world hardware. My core focus spans across 3D modeling, mechatronics, and rapid prototyping.</p>
-        <p>Whether I am designing structural mounting stacks to withstand extreme shock loads for high-altitude balloon payloads, building custom parametric assemblies in SolidWorks, or developing automated microcontroller systems using Python and C, I thrive on hands-on technical challenges and cross-disciplinary collaboration.</p>
-        <p>Take a look at my featured engineering projects below, or reach out if you'd like to connect!</p>
-    </div>
-</section>
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: wrapper
+---
+
+{% include hero.html%}
+
+
+
+<div class="arrow"> 
+    <a href="#projects">
+        My Projects
+    <i class="fa-solid fa-angles-down"></i>
+    </a> 
+</div>
 {% include projects.html%}
 {% include skills.html%}
 {% include contact.html%}
