@@ -15,7 +15,9 @@ title: Muhammad Hassan | Mechanical Engineering Portfolio # This is what shows u
 name: Muhammad Hassan
 headline: Mechanical Engineering Student at Drexel University
 description: >- # dont remove this line. this will ignore all new lines until the next section
- Mechanical Engineering student at Drexel University pursuing a minor in mathematics, specializing in 3D CAD modeling, mechatronics, and hardware prototyping. Experienced in SolidWorks, MATLAB, Python, and embedded systems development—ranging from microcontroller-based environmental control systems to structural mounting stacks designed for high-altitude research payloads under high-G shock loads. Passionate about cross-disciplinary collaboration, rapid prototyping, and taking complex engineering concepts from initial design to functional, real-world hardware.
+  Mechanical Engineering student at Drexel University with a minor in mathematics, focusing on 
+  CAD modeling, mechatronics, and hardware prototyping. Experienced in SolidWorks, MATLAB, 
+  Python, and embedded systems development.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/mainpfp.png
