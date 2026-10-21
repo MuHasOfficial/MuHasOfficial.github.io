@@ -444,7 +444,6 @@ nav .mobile-nav {
     margin: 0 auto; 
     border-radius: 20px; 
     margin-bottom: 100px;
-      
 }
 
 .contact-section h2 {
@@ -462,11 +461,34 @@ nav .mobile-nav {
     flex:3;
     display: flex;
     flex-direction: column;
-    color:var(--text-color)
+    color: var(--text-color);
 }
 
+/* PASTE THIS BLOCK BELOW .group form AND ABOVE .group form button */
+.contact-section .group form input, 
+.contact-section .group form textarea {
+    font-family: 'Poppins', sans-serif;
+    background-color: #1e1e1e !important;
+    color: #ffffff !important;           /* Forces typed text to pure white */
+    border: 1px solid #ffffff !important;
+    border-radius: 6px;
+    padding: 10px;
+    margin-bottom: 10px;
+    outline: none;
+    resize: none;
+    font-size: 14px;
+}
 
-    
+/* OPTIONAL: Keeps browser autofill dark with white text */
+.contact-section .group form input:-webkit-autofill,
+.contact-section .group form input:-webkit-autofill:hover, 
+.contact-section .group form input:-webkit-autofill:focus,
+.contact-section .group form textarea:-webkit-autofill,
+.contact-section .group form textarea:-webkit-autofill:hover,
+.contact-section .group form textarea:-webkit-autofill:focus {
+    -webkit-text-fill-color: #ffffff !important;
+    -webkit-box-shadow: 0 0 0px 1000px #1e1e1e inset !important;
+    transition: background-color 5000s ease-in-out 0s;
 }
 
 .contact-section .group form button {
@@ -477,9 +499,8 @@ nav .mobile-nav {
     border:none;
     height: 50px;
     cursor: pointer;
-    transition: 0.1s
+    transition: 0.1s;
 }
-
 
 /* FOOTER */
 
