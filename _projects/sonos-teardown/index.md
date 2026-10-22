@@ -10,8 +10,6 @@ skills:
   - Circuit Design
 ---
 
-### Project Overview
-Designed and prototyped an automated mechatronic exhaust system driven by a Raspberry Pi Pico W microcontroller. The system automatically monitors ambient environmental factors using temperature and humidity sensors, displaying real-time data—such as temperature and system status—on an OLED display.
 
 ## Key Engineering Contributions
 - **Thermal & System Architecture**: Designed a temperature-controlled exhaust fan system, using a Raspberry Pi Pico 2W microcontroller, an AHT10 environmental sensor, and an L298N motor driver to accurately manage thermal thresholds.
@@ -22,7 +20,5 @@ Designed and prototyped an automated mechatronic exhaust system driven by a Rasp
 
 {% include image-gallery.html images="exh1.png, exh2.png" height="400" %}
 
-### Summary
-I designed and prototyped an automated mechatronic exhaust system driven by a Raspberry Pi Pico W microcontroller. The system actively monitors the environment using integrated sensors, displaying real-time data—such as temperature, humidity, and system status—on an OLED display. Developed custom control logic to dynamically adjust cooling and exhaust fan speeds based on threshold triggers, combining embedded firmware programming, breadboard circuit design, and hardware actuation. 
 
 
