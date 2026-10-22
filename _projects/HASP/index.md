@@ -9,7 +9,7 @@ skills:
   - Technical Research & Collaboration
   - Mechanical Assembly
 
-image: /hasp1.png
+main-image: /hasp1.png
 ---
 
 ## Key Engineering Features
