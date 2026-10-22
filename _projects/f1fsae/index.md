@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Formula SAE (FSAE) Racecar Mechanical Systems (CURRENTLY ACTIVE)"
+title: "Formula SAE (FSAE) Racecar Mechanical Systems (WIP)"
 description: "Formula SAE is a School Collaborative Project where students build a mock F1 Racing Car and compete nationwide against other schools every year, testing students' management and business principles, as well as core engineering and design principles"
 skills: 
   - SolidWorks & CAD
