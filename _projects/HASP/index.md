@@ -45,4 +45,3 @@ main-image: /hasp1.png
   </figure>
 
 </div>
-</div>
