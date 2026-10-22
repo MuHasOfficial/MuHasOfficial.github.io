@@ -10,7 +10,6 @@ skills:
   - Product Design
 
 main-image: /medifier.png
-
 ---
 
 
