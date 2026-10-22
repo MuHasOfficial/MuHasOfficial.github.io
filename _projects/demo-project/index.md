@@ -14,9 +14,9 @@ main-image: /flashlight.png
 
 
 ## Key Engineering Features
-- **Parametric Thread Design:** Modeled accurate internal and external threads for secure enclosure and cap retention.
+- **Parametric Thread Design:** Modeled accurate internal and external threads for **secure enclosure** and **cap retention**.
 - **Internal Component Integration:** Engineered custom housings to securely fit battery cells, switch mechanisms, and lens retainers.
-- **Exploded View & Documentation:** Generated a fully detailed exploded view and bill of materials (BOM) to map out the entire 15-part assembly.
+- **Exploded View & Documentation:** Generated a fully detailed **exploded view** and **bill of materials (BOM)** to map out the entire assembly.
 
 ## Project Gallery
 
