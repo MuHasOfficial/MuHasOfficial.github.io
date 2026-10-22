@@ -11,8 +11,6 @@ skills:
 
 ---
 
-## Project Overview
-Created a functional, multi-component flashlight assembly entirely from scratch using SolidWorks to help sharpen my skills regarding complex assemblies, component creation, measurements, and mechanical fit tolerances.
 
 ## Key Engineering Features
 - **Parametric Thread Design:** Modeled accurate internal and external threads for secure enclosure and cap retention.
@@ -22,5 +20,4 @@ Created a functional, multi-component flashlight assembly entirely from scratch 
 ## Gallery
 {% include image-gallery.html images="flashlight.png" height="400" %}
 
-## Summary
-Designed a multi-component flashlight assembly from scratch using SolidWorks. Modeled high-level housing threads, battery compartments, lens retainers, and internal switch mechanisms. Generated a fully detailed exploded view and bill of materials (BOM) to demonstrate spatial assembly, component alignment, and mechanical fit tolerances. 
+
