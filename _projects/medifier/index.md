@@ -14,9 +14,9 @@ main-image: /medifier.png
 
 
 ## Key Engineering Features
-- **Duckbill Valve Mechanism:** Designed a suction-activated valve that opens only when suction force is applied to the pacifier, preventing premature spills.
-- **Integrated Fluid Reservoir:** Engineered a compact, lightweight 15 mL medicine reservoir combined with a sleek outer housing.
-- **Rapid Prototyping & Iteration:** Utilized SolidWorks for precise parametric 3D modeling and executed multiple physical 3D printing iterations to refine the mouthguard and cap fit.
+- **Duckbill Valve Mechanism:** Designed a **suction-activated valve** that opens only when suction force is applied to the pacifier, preventing premature spills.
+- **Integrated Fluid Reservoir:** Engineered a compact, lightweight **15 mL medicine reservoir** combined with a sleek outer housing.
+- **Rapid Prototyping & Iteration:** Utilized SolidWorks for precise **parametric 3D modeling** and executed multiple physical 3D printing iterations to refine the mouthguard and cap fit.
 
 ## Project Gallery
 
