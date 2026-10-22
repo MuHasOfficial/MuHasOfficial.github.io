@@ -11,14 +11,10 @@ skills:
 
 ---
 ## Design Workflow
-1. **Part Design:** Modeled individual wooden panels, framing brackets, and fasteners.
-2. **Sub-Assembly:** Grouped structural supports into modular sub-assemblies before final integration.
-3. **Verification:** Checked for interference and clearance issues across all movable or connecting joints.
-
-## Key Engineering Features
-- **Parametric Framework:** Designed adjustable legs, framing supports, and desktop surfaces linked by parametric master dimensions for rapid design iterations.
-- **Advanced Assembly Mates:** Utilized coaxial, planar, and distance mates to simulate real-world hardware fastening and structural alignment.
-- **Bill of Materials (BOM):** Generated component hierarchies and assembly trees to ensure clean part organization and manufacturing readiness.
+1. **Part Design:** Modeled all individual parts based on my **real-life desk**, such as framing brackets and fasteners.
+2. **Sub-Assembly:** Grouped structural supports into **sub-assemblies** before final integration.
+3. **Verification:** Checked for interference and clearance issues across all movable or connecting joints, and **hand-measured every part** to be identical to its real-life counterpart.
+4. **Advanced Assembly Mates:** Utilized coaxial, planar, and distance mates **to simulate real-world hardware** fastening and structural alignment.
 
 ## Design Gallery
 {% include image-gallery.html images="desk.png" height="400" %}
