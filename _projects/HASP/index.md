@@ -14,8 +14,48 @@ main-image: /hasp1.png
 
 ## Key Engineering Features
 - **High-G Shock Load Design:** Engineered and analyzed (FMEA) mounting assemblies to survive **10G vertical and horizontal shock forces** encountered during balloon launch and termination (parachute deployment).
-- **Dense Material Integration:** Utilized **tungsten container parts** within strict weight and spatial constraints to optimize radiation/mass shielding and balanced payload weight distribution.
-- **Research Collaboration:** Co-authored technical abstracts and documentation about mechanical mounting stacks for high-altitude flight feasibility and for research grants.
+- **Dense Material Integration:** Utilized **tungsten container parts** within strict weight and spatial constraints to optimize payload integrity, durability, shock resistance, and balanced payload weight distribution.
+- **Research Collaboration:** Co-authored technical abstracts and documentation about mechanical mounting stacks for high-altitude flight feasibility and for research grants regarding informal learning environments.
 
 ## Project Gallery
-{% include image-gallery.html images="hasp1.png, hasp2.png, hasp3.png, hasp4.png, hasp5.png" height="400" %}
+
+<div class="gallery-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin-top: 20px;">
+
+  {% assign folder_path = page.path | split: "/" | slice: 0, 2 | join: "/" %}
+
+  <figure style="text-align: center; margin: 0; background-color: #252526; border-radius: 8px; padding-bottom: 12px; overflow: hidden;">
+    <img src="/{{ folder_path }}/hasp1.png" alt="HASP Assembly" style="width: 100%; height: 200px; object-fit: contain; background-color: #252526; display: block;">
+    <figcaption style="margin-top: 10px; font-size: 14px; color: #f0f0f0; padding: 0 10px;">
+      <strong>Figure 1:</strong> SolidWorks CAD model of the high-altitude payload assembly.
+    </figcaption>
+  </figure>
+
+  <figure style="text-align: center; margin: 0; background-color: #252526; border-radius: 8px; padding-bottom: 12px; overflow: hidden;">
+    <img src="/{{ folder_path }}/hasp2.png" alt="Structural Analysis" style="width: 100%; height: 200px; object-fit: contain; background-color: #252526; display: block;">
+    <figcaption style="margin-top: 10px; font-size: 14px; color: #f0f0f0; padding: 0 10px;">
+      <strong>Figure 2:</strong> FEA stress evaluation under 10G shock load conditions.
+    </figcaption>
+  </figure>
+
+  <figure style="text-align: center; margin: 0; background-color: #252526; border-radius: 8px; padding-bottom: 12px; overflow: hidden;">
+    <img src="/{{ folder_path }}/hasp3.png" alt="Tungsten Mounting" style="width: 100%; height: 200px; object-fit: contain; background-color: #252526; display: block;">
+    <figcaption style="margin-top: 10px; font-size: 14px; color: #f0f0f0; padding: 0 10px;">
+      <strong>Figure 3:</strong> Tungsten structural mounting stack cross-section.
+    </figcaption>
+  </figure>
+
+  <figure style="text-align: center; margin: 0; background-color: #252526; border-radius: 8px; padding-bottom: 12px; overflow: hidden;">
+    <img src="/{{ folder_path }}/hasp4.png" alt="Exploded View" style="width: 100%; height: 200px; object-fit: contain; background-color: #252526; display: block;">
+    <figcaption style="margin-top: 10px; font-size: 14px; color: #f0f0f0; padding: 0 10px;">
+      <strong>Figure 4:</strong> Exploded view detailing internal component alignment.
+    </figcaption>
+  </figure>
+
+  <figure style="text-align: center; margin: 0; background-color: #252526; border-radius: 8px; padding-bottom: 12px; overflow: hidden;">
+    <img src="/{{ folder_path }}/hasp5.png" alt="Physical Integration" style="width: 100%; height: 200px; object-fit: contain; background-color: #252526; display: block;">
+    <figcaption style="margin-top: 10px; font-size: 14px; color: #f0f0f0; padding: 0 10px;">
+      <strong>Figure 5:</strong> Physical payload assembly configuration and setup.
+    </figcaption>
+  </figure>
+
+</div>
