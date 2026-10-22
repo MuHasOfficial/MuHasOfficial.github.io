@@ -10,8 +10,6 @@ skills:
   - Mechanical Assembly
 ---
 
-{% include image_slider.html images="hasp1.png, hasp2.png, hasp3.png, hasp4.png, hasp5.png" height="400" %}
-
 ## Key Engineering Features
 - **High-G Shock Load Design:** Engineered and analyzed (FMEA) mounting assemblies to survive **10G vertical and horizontal shock forces** encountered during balloon launch and termination (parachute deployment).
 - **Dense Material Integration:** Utilized **tungsten container parts** within strict weight and spatial constraints to optimize radiation/mass shielding and balanced payload weight distribution.
