@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Parametric Workstation & Desk Assembly"
+title: "Parametric Workstation & Desk Assembly (WIP)"
 description: "Designed a multi-piece modular desk and workstation assembly in SolidWorks, focusing on structural stability, surface mating, and parametric dimensioning."
 skills: 
   - SolidWorks & CAD
