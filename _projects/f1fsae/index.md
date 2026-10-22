@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Formula SAE (FSAE) Racecar Mechanical Systems"
-description: "Formula SAE is a School Collaborative Project, where students build a mock F1 Racing Car, and Compete nationwide against other schools every year, testing students' management and business principles, as well as core engineering and design principles"
+title: "Formula SAE (FSAE) Racecar Mechanical Systems (CURRENTLY ACTIVE)"
+description: "Formula SAE is a School Collaborative Project where students build a mock F1 Racing Car and compete nationwide against other schools every year, testing students' management and business principles, as well as core engineering and design principles"
 skills: 
   - SolidWorks & CAD
   - Vehicle Dynamics
@@ -15,9 +15,9 @@ main-image: /fsae1.png
 
 
 ## Key Engineering Contributions
-- **Component & Assembly Design:** Modeled mechanical parts and mounting brackets using SolidWorks, ensuring precise packaging within tight chassis constraints.
-- **Design Review & Evaluation:** Participated in technical design reviews to evaluate component weight optimization, stress loads, and ease of serviceability.
-- **Cross-Functional Collaboration:** Coordinated with sub-teams spanning chassis, powertrain, and electronics to ensure clean integration and alignment across the vehicle.
+- **Component & Assembly Design:** Will model mechanical parts and mounting brackets using SolidWorks to ensure precise packaging within tight chassis constraints.
+- **Design Review & Evaluation:** Will participate in technical design reviews to evaluate component weight optimization, stress loads, and durability.
+- **Cross-Functional Collaboration:** Have coordinated with sub-teams spanning chassis, powertrain, and electronics to ensure clean integration and alignment across the vehicle.
 
 ## Project Gallery
 
@@ -35,7 +35,7 @@ main-image: /fsae1.png
   <figure style="text-align: center; margin: 0; background-color: #1e1e1e; border-radius: 8px; padding-bottom: 12px; overflow: hidden;">
     <img src="/{{ folder_path }}/fsae3.png" alt="FSAE Assembly 3" style="width: 100%; height: 280px; object-fit: contain; background-color: #1e1e1e; display: block;">
     <figcaption style="margin-top: 10px; font-size: 14px; color: #f0f0f0; padding: 0 10px;">
-      This year's Formula 1 SAE, now a 2-year design cycle, moving away from the old design
+      This year's Formula 1 SAE, now a 2-year design cycle, which is moving away from the old design
     </figcaption>
   </figure>
 
