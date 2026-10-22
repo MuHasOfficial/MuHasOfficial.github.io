@@ -9,7 +9,7 @@ skills:
   - GD&T & Tolerancing
   - Rapid Prototyping
   - 
-main-image: /hasp1.png
+main-image: /flashlight.png
 ---
 
 
