@@ -8,6 +8,8 @@ skills:
   - Mechatronics
   - Sensor Integration
   - Circuit Design
+
+main-image: /exh1.png
 ---
 
 
