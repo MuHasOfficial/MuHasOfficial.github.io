@@ -25,13 +25,6 @@ main-image: /exh2.png
   {% assign folder_path = page.path | split: "/" | slice: 0, 2 | join: "/" %}
 
   <figure style="text-align: center; margin: 0; background-color: #1e1e1e; border-radius: 8px; padding-bottom: 12px; overflow: hidden;">
-    <img src="/{{ folder_path }}/exh1.png" alt="Exhaust Setup 1" style="width: 100%; height: 280px; object-fit: contain; background-color: #1e1e1e; display: block;">
-    <figcaption style="margin-top: 10px; font-size: 14px; color: #f0f0f0; padding: 0 10px;">
-      Exhaust system layout and component positioning overview.
-    </figcaption>
-  </figure>
-
-  <figure style="text-align: center; margin: 0; background-color: #1e1e1e; border-radius: 8px; padding-bottom: 12px; overflow: hidden;">
     <img src="/{{ folder_path }}/microsevroset.png" alt="Micro Servo Setup" style="width: 100%; height: 280px; object-fit: contain; background-color: #1e1e1e; display: block;">
     <figcaption style="margin-top: 10px; font-size: 14px; color: #f0f0f0; padding: 0 10px;">
       Raspberry Pi Pico W2 setup with a servo motor connecting the fans 
