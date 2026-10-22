@@ -10,9 +10,10 @@ skills:
   - Technical Documentation
 
 ---
-
-## Project Overview
-Modeled a custom multi-piece workstation and desk assembly in SolidWorks for advanced CAD practice. The project focused on clean parametric dimensioning, sub-assembly structuring, and structural stability across all desk components.
+## Design Workflow
+1. **Part Design:** Modeled individual wooden panels, framing brackets, and fasteners.
+2. **Sub-Assembly:** Grouped structural supports into modular sub-assemblies before final integration.
+3. **Verification:** Checked for interference and clearance issues across all movable or connecting joints.
 
 ## Key Engineering Features
 - **Parametric Framework:** Designed adjustable legs, framing supports, and desktop surfaces linked by parametric master dimensions for rapid design iterations.
@@ -22,7 +23,3 @@ Modeled a custom multi-piece workstation and desk assembly in SolidWorks for adv
 ## Design Gallery
 {% include image-gallery.html images="desk.png" height="400" %}
 
-## Design Workflow
-1. **Part Design:** Modeled individual wooden panels, framing brackets, and fasteners.
-2. **Sub-Assembly:** Grouped structural supports into modular sub-assemblies before final integration.
-3. **Verification:** Checked for interference and clearance issues across all movable or connecting joints.
