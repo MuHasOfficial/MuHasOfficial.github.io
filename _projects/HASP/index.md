@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NASA HERA / HASP High-Altitude Research Payload"
+title: "NASA HERA / HASP High-Altitude Research Payload (WIP)"
 description: "Co-authored research abstracts and designed tungsten structural mounting, as well as currently leading the team for drone payload recovery for high-altitude balloon instrumentation."
 skills: 
   - Structural Analysis & CAD
