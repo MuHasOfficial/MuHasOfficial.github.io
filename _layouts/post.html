@@ -8,7 +8,7 @@ layout: wrapper
         {% if page['main-image'] %}
         {% assign folder_path = page.path | split: "/" | slice: 0, 2 | join: "/" %}
         {% assign image_path = "/" | append: folder_path | append: page['main-image'] %}        
-        <img src="{{ image_path }}" alt="{{ page.title }} image">
+        <img src="{{ image_path }}" alt="{{ page.title }} image" style="width: 100%; max-height: 450px; object-fit: contain; background-color: #1e1e1e; border-radius: 8px; display: block; margin: 0 auto;">
         {% endif %}
         
         <div class="title-header">
