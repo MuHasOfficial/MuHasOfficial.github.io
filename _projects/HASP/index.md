@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NASA HERA / HASP High-Altitude Research Payload"
-description: "Co-authored research abstracts and designed tungsten structural mounting stacks to withstand 10G shock loads for high-altitude balloon instrumentation."
+description: "Co-authored research abstracts and designed tungsten structural mounting, as well as currently leading the team for drone payload recovery for high-altitude balloon instrumentation."
 skills: 
   - Structural Analysis & CAD
   - High-G & Shock Load Testing
@@ -13,9 +13,9 @@ main-image: /hasp1.png
 ---
 
 ## Key Engineering Features
-- **High-G Shock Load Design:** Engineered and analyzed (FMEA) mounting assemblies to survive **10G vertical and horizontal shock forces** encountered during balloon launch and termination (parachute deployment).
-- **Dense Material Integration:** Utilized **tungsten container parts** within strict weight and spatial constraints to optimize payload integrity, durability, shock resistance, and balanced payload weight distribution.
-- **Research Collaboration:** Co-authored technical abstracts and documentation about mechanical mounting stacks for high-altitude flight feasibility and for research grants regarding informal learning environments.
+- **High-G Shock Load Design:** Engineered and analyzed (FMEA) mounting assemblies to survive **10G vertical and horizontal shock forces** encountered during balloon launch and termination (parachute deployment jerk force).
+- **Dense Material Integration:** Created **tungsten containers** within strict weight and spatial constraints to maximize payload integrity and durability, as well as shock, thermal, and vibration resistance while balancing payload weight distribution.
+- **Research Collaboration:** Co-authored technical abstracts and documentation about mechanical mounting stacks for high-altitude flight feasibility and for research grants regarding informal learning environments in STEM.
 
 ## Project Gallery
 
