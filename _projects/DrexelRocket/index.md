@@ -8,6 +8,7 @@ skills:
   - Ground Support Equipment
   - Mechanical Assembly
   - ANSYS
+  - Applied Fluid Dynamics
 
 main-image: /drexelrocket1.png
 ---
