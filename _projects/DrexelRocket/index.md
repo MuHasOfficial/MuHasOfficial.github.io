@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "Drexel Rocket Team (WIP)"
-description: "Upcoming contributions to structural design, integration, and ground support equipment for competitive collegiate rocketry."
+description: "Upcoming contributions to structural design, integration, and ground support equipment for Drexel's Rocket Team, as well as contributing to the new Dragon One Rocket."
 skills: 
   - Structural Analysis & CAD
   - Aerospace Systems Design
   - Ground Support Equipment
   - Mechanical Assembly
+  - ANSYS
 
 main-image: /drexelrocket1.png
 ---
