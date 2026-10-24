@@ -31,13 +31,6 @@ main-image: /desktopkey.png
   </figure>
 
   <figure style="text-align: center; margin: 0; background-color: #1e1e1e; border-radius: 8px; padding-bottom: 12px; overflow: hidden;">
-    <img src="/{{ folder_path }}/spacebar.png" alt="Spacebar Detail" style="width: 100%; height: 280px; object-fit: contain; background-color: #1e1e1e; display: block;">
-    <figcaption style="margin-top: 10px; font-size: 14px; color: #f0f0f0; padding: 0 10px;">
-      Life-Sized spacebar view (with 2 connectors on the bottom)
-    </figcaption>
-  </figure>
-
-  <figure style="text-align: center; margin: 0; background-color: #1e1e1e; border-radius: 8px; padding-bottom: 12px; overflow: hidden;">
     <img src="/{{ folder_path }}/connect.png" alt="Connector Design" style="width: 100%; height: 280px; object-fit: contain; background-color: #1e1e1e; display: block;">
     <figcaption style="margin-top: 10px; font-size: 14px; color: #f0f0f0; padding: 0 10px;">
       Keycap to Keybase connector view
