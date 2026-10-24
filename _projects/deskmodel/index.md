@@ -9,7 +9,7 @@ skills:
   - Structural Design
   - Technical Documentation
 
-main-image: /desktopkey.png
+main-image: /key.png
 ---
 ## Design Workflow
 1. **Part Design:** Modeling all individual parts based on my **real-life desk**, such as framing brackets and fasteners.
