@@ -13,7 +13,7 @@ Portfolio builder designed for mechanical, electrical, aerospace, robotics, mech
 If you want complete control over customization of your portfolio, you can use this template. However, the functionality would be limited and you would need to be familiar with Jekyll and Github workflows. Depends on how familiar you are with Github and markdown files, the initial setup could be challenging and may take anywhere from 30 minutes to an hour.
 
 
-# free-to-engineer-portflio-template instructions
+# free-to-engineer-portflio-template instructions 
 
 ### 1. Setting Up Your Page on GitHub (5 min)
 - [Getting Started](#getting-started)
